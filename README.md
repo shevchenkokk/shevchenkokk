@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://kirillshat.ru/" target="_blank">Kirill</a> 
+<h1 align="center">Hi there, I'm <a href="https://kirillshat.ru/" target="_blank">Kirill</a> 👋
 
 <!--
 **shevchenkokk/shevchenkokk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
