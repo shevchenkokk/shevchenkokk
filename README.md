@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/Cinema-E50914?style=flat&logo=netflix&logoColor=white" alt="Films">
   <img src="https://img.shields.io/badge/Anime-FF69B4?style=flat&logo=myanimelist&logoColor=white" alt="Anime">
   <img src="https://img.shields.io/badge/Instruments-Guitar-00AA00?style=flat&logo=music&logoColor=white" alt="Guitar">
+  <img src="https://img.shields.io/badge/Psychology-Cognitive_Science-FF5A5F?style=flat&logo=brain&logoColor=white" alt="Psychology">
   <img src="https://img.shields.io/badge/Outdoor-Walking-228B22?style=flat&logo=walking&logoColor=white" alt="Walking">
 </p>
 
